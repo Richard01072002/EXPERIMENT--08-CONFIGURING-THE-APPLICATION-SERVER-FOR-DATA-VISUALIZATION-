@@ -10,7 +10,7 @@ A high-end online-transaction-processing-style application server delivers busin
 As the application server market matures, high performance becomes a stronger criterion, and thus where vendors now incorporate extensions to application servers, such as extreme transaction processing and event-based processing capabilities, these are also included in this market segment.
 ## Procedure :
 
- 1. login to the network server using login link  https://iot.saveetha.in/
+ 1. login to the network server using login link  https://iot.saveetha.in/ 
  2. 
  3.  click on the Application server as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
